@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Yaroslav Yakupov <yakupov.yaroslav@icloud.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start:producer": "node producer/index.js",
+    "start:consumer": "node consumer/index.js"
+  }
 }
