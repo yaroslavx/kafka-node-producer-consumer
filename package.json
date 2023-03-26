@@ -1,0 +1,7 @@
+{
+  "name": "kafka-node-producer-consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yaroslav Yakupov <yakupov.yaroslav@icloud.com>",
+  "license": "MIT"
+}
